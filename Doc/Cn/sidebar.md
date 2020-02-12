@@ -34,7 +34,13 @@
         - [事务](/Video/Orm/trans.md)
         - [修改器、获取器](/Video/Orm/setterGetter.md)
         - [invoke](/Video/Orm/invoke.md)
-    - [其他额外部分](/Video/other.md)
+    - 其他视频
+        - [并发查询](/Video/ExtraVideo/concurrentQuery.md)
+        - [Csp编程](/Video/ExtraVideo/Csp.md)
+        - [异步任务](/Video/ExtraVideo/asyncTask.md)
+        - [自定义进程](/Video/ExtraVideo/customProcess.md)
+        - [Http上传](/Video/ExtraVideo/httpUpload.md)
+        - [Words-match文本检测](/Video/ExtraVideo/words-match.md)
     - [视频教程模板](/Video/template.md)
 - 快速开始
     - [环境要求](/QuickStart/environment.md)

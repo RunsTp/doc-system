@@ -17,8 +17,10 @@
         - [swoole安装](/Video/Install/installSwoole.md)
         - [composer安装](/Video/Install/installComposer.md)
         - [EasySwoole安装](/Video/Install/installEasySwoole.md)
-    - [HTTP部分](/Video/http.md)
-    - [数据库部分](/Video/database.md)
+    - Http部分
+        - [Http解析与路由](/Video/HttpRelated/route.md)
+        - [Controller对象简介和池模型介绍](/Video/HttpRelated/controllerCharacteristic.md)
+        - [异常处理](/Video/HttpRelated/exception.md)
     - ORM系列教程
         - [安装及配置信息注册](/Video/Orm/install.md)
         - [定义模型](/Video/Orm/defineModel.md)

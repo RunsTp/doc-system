@@ -1,4 +1,4 @@
-- 前言
+- 前言    
     - [项目介绍](/Preface/introduction.md)
     - [开发者必读](/Preface/developerRead.md)
     - [更新记录](/Preface/updateLog.md)
@@ -7,10 +7,10 @@
     - [联系作者](/Preface/contactAuthor.md)
     - [文档维护团队](/Preface/team.md)
 - 视频教程
-    - 框架安装
-        - swoole安装
-        - composer配置
-        - Easyswoole安装
+    - 环境与框架安装
+        - [swoole安装](/Video/Install/installSwoole.md)
+        - [composer安装](/Video/Install/installComposer.md)
+        - [EasySwoole安装](/Video/Install/installEasySwoole.md)
     - [基础部分](/Video/base.md)
     - [HTTP部分](/Video/http.md)
     - [数据库部分](/Video/database.md)

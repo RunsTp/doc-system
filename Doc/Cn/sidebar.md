@@ -7,7 +7,10 @@
     - [联系作者](/Preface/contactAuthor.md)
     - [文档维护团队](/Preface/team.md)
 - 视频教程
-    - [入门教程](/Video/introduction.md)
+    - [框架安装]
+        - swoole安装
+        - composer配置
+        - Easyswoole安装
     - [基础部分](/Video/base.md)
     - [HTTP部分](/Video/http.md)
     - [数据库部分](/Video/database.md)

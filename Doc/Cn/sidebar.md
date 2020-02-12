@@ -7,7 +7,7 @@
     - [联系作者](/Preface/contactAuthor.md)
     - [文档维护团队](/Preface/team.md)
 - 视频教程
-    - [框架安装]
+    - 框架安装
         - swoole安装
         - composer配置
         - Easyswoole安装
